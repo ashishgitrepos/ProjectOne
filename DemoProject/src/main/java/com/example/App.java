@@ -15,4 +15,7 @@ public class App
     {
         System.out.println( "Hello44444444444" );
     }
+    {
+        System.out.println( "Hello55555555555" );
+    }
 }
